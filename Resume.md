@@ -23,6 +23,7 @@ I am a detail-oriented technical writer with a passion for turning complex infor
 * Quality documentation
 * Microsoft
 * Github
+* SharePoint
 
 ### Certifications
 * Technical Writing Certification *(2023)* - [Technical Writer HQ](https://technicalcommunication.mn.co/landing?from=https%3A%2F%2Ftechnicalcommunication.mn.co%2Fspaces%2F9128382%2Fcontent)
