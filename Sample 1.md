@@ -37,7 +37,7 @@ To create headers, prefix the text with the appropriate number of "#" symbols, f
 * *Italics*: to italicize text, add "*" before and after the text you would like italicized. For example, "\*Text\*"
 * ~~Strikethrough~~: To strikethrough text, add "~~" before and after the text. For example, "\~~Text~~"
 * Blockquotes: To add a blockquote, add "> " before the text you would like quoted. For example, "\>Markdown is fun!"
-* Backslash use: Use "\" before a syntax if you want to use symbols associated with other commands. For example, "*" are used for lists so if
+* Backslash use: Use a backslash before a syntax if you want to use symbols associated with other commands. For example, "*" are used for lists so if
 you want to actually use *, write \*.
 
 **Page Separation**
