@@ -1,6 +1,7 @@
 # Markdown Guide for Beginners
 
 ## Introduction
+
 **What is Markdown?**
 
 Markdown is a lightweight way to write text that can be easily converted into
@@ -36,13 +37,48 @@ To create headers, prefix the text with the appropriate number of "#" symbols, f
 * *Italics*: to italicize text, add "*" before and after the text you would like italicized. For example, "\*Text\*"
 * ~~Strikethrough~~: To strikethrough text, add "~~" before and after the text. For example, "\~~Text~~"
 * Blockquotes: To add a blockquote, add "> " before the text you would like quoted. For example, "\>Markdown is fun!"
-* Backslash use: Explain
+* Backslash use: Use "\" before a syntax if you want to use symbols associated with other commands. For example, "*" are used for lists so if
+you want to actually use *, write \*.
 
 **Page Separation**
 
+To separate sections on a page or to insert a horizontal line, use 3 hyphons without any space between or at the start or end.
+* "---"
+
 **Lists**
 
+Ordered Lists:
+* To numerically order a list, preface the first listed item with "1.". For example, "1. Item one".
+* As you move to the next row by clicking **enter**, the numbering will automatically continue (2.,3.,4.).
+
+*Sample*
+
+A List of My Favorite Animals:
+1. Dogs
+2. Bunnies
+3. Cats
+4. Lions
+5. Bears
+
+Bulleted Lists:
+* To start a bulleted list, preface the first listed item with "*". For example, "* Item one".
+* As you move to the next row by clicking **enter**, the bullet points will automatically continue.
+
+*Sample*
+
+Things I like to Do:
+* Read
+* Write
+* Watch TV
+* Spend time with friends
+* Walk my dog
+
 **Links**
+
+To insert a link, use the following syntax:
+* "[Link Title](URL *Title of URL on Mouse Hover*)"
+* For example, "\[GitHub](https://github.com)"
+
 
 **Images**
 
