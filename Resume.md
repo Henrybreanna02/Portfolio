@@ -12,10 +12,19 @@ I am a detail-oriented technical writer with a passion for turning complex infor
 ### Experience
 
 #### Invaryant
-**Technical Writer** *March 2024 - Present*
+**Technical Writer** *March 2024 - December 2024*
 * Develop and maintain comprehensive software documentation, including functional specifications, user guides, and system overviews, ensuring clarity and usability for diverse audiences.
 * Collaborate with cross-functional teams, including developers, QA, and product managers, to gather technical information and produce accurate documentation.
 * Create and manage quality assurance documents, such as Installation Qualification (IQ), Operational Qualification (OQ), and Performance Qualification (PQ), in compliance with regulatory standards.
+
+#### Invaryant
+**Quality Lead** *January 2025 - Present*
+* Led and mentored QA team, ensuring high-quality software delivery in the healthcare domain.
+* Developed and maintained comprehensive test plans, test cases, and other documentation.
+* Implemented and monitored QA processes across the SDLC, adhering to industry standards (e.g., HIPAA).
+* Collaborated closely with development, product, and support teams to resolve quality issues.
+* Proactively identified and mitigated risks to software quality.
+* Continuously improved QA processes and tools to enhance efficiency and effectiveness.
 
 ### Portfolio
 
