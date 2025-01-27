@@ -28,7 +28,7 @@ I am a detail-oriented technical writer with a passion for turning complex infor
 
 ### Portfolio
 
-Insert Link
+[Click Me](https://github.com/Henrybreanna02/Portfolio/tree/main)
 
 
 ### Skills
