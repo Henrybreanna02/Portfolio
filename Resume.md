@@ -18,7 +18,7 @@ I am a detail-oriented technical writer with a passion for turning complex infor
 * Create and manage quality assurance documents, such as Installation Qualification (IQ), Operational Qualification (OQ), and Performance Qualification (PQ), in compliance with regulatory standards.
 
 #### Invaryant
-**Quality Lead** *January 2025 - Present*
+**Quality Manager** *January 2025 - Present*
 * Led and mentored QA team, ensuring high-quality software delivery in the healthcare domain.
 * Developed and maintained comprehensive test plans, test cases, and other documentation.
 * Implemented and monitored QA processes across the SDLC, adhering to industry standards (e.g., HIPAA).
