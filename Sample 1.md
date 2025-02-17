@@ -82,4 +82,15 @@ To insert a link, use the following syntax:
 
 **Images**
 
-**Tables**
+To insert an image, use the following syntax:
+* ![Alternate Text](Image URL *Image Title on Mouse Hover*)
+* Alternate text will be visible when image is NOT found
+* For example, INSERT EXAMPLE
+
+## Summary
+
+This guide introduces Markdown as a simple, lightweight way to format text for web pages, documents, and other digital content. While this guide doesn't cover every apsect of the Markdown language, it includes a breakdown of the basic syntax to start your journey with using Markdown.
+
+
+
+
